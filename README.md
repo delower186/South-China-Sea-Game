@@ -4,3 +4,4 @@ South china sea game development carried out based on conflicts in South China S
 * To win 1500 Score Required.
 * Full Life will be awarded if reach to 7th level
 * Total 13 level available
+* Use W S keys for up & down and A D Keys for left & right to move the dragon
